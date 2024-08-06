@@ -1,0 +1,6 @@
+pip~=24.0
+pillow~=10.2.0
+pyserial~=3.5
+pyinstaller~=6.5.0
+pandas~=2.2.2
+openpyxl~=3.1.2
